@@ -18,13 +18,13 @@ function App() {
       <div className="app">
         <Switch>
           <Route exact path="/dragDrop" component={DragAndDrop} />
-          <Route exact path="/homeLatest" component={HomeLatest} />
+          <Route exact path="/signin" component={SignIn} />
           <Route exact path="/home" component={Home} />
           <Route exact path="/homePage" component={HomePage} />
           <Route exact path="/cropper" component={MyWordrobe} />
           <Route exact path="/forgotPassword" component={ForgotPassword} />
           <Route exact path="/resetPassword" component={ResetPassword} />
-          <Route exact path="/" component={SignIn} />
+          <Route exact path="/" component={HomeLatest} />
         </Switch>
       </div>
     </CookiesProvider>
