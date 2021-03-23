@@ -1,0 +1,57 @@
+{
+  "German": "Deutsche",
+  "Sidebar": {
+    "1": "Zuhause",
+    "2": "Kleiderschrank",
+    "3": "Aufträge",
+    "4": "Mein Freund",
+    "5": "Mein hintergrund",
+    "6": "Plaudern",
+    "7": "Geschenke",
+    "8": "Mein Kalender",
+    "9": "die Einstellungen"
+  },
+  "Header": {
+    "1": "Suche alles"
+  },
+  "HomeLatest": {
+    "1": "NEUESTE",
+    "2": "FOLGENDES"
+  },
+  "card1": {
+    "1": "vor 4 Tagen",
+    "2": "Das Neon-Design bietet keinen spezifischen Filtrationsschutz von Covid-19. Aber technisch…"
+  },
+  "card2": {
+    "1": "vor 14 Tagen",
+    "2": "Sogar normale Stoffmasken sind so knapp, dass der US-amerikanische Generalchirurg…"
+  },
+  "card3": {
+    "1": "vor 28 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  },
+  "card4": {
+    "1": "vor 18 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  },
+  "card5": {
+    "1": "vor 19 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  },
+  "card6": {
+    "1": "vor 12 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  },
+  "card7": {
+    "1": "vor 2 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  },
+  "card8": {
+    "1": "vor 28 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  },
+  "card9": {
+    "1": "vor 1 Tagen",
+    "2": "Ich habe diese getragen, als ich in der Molkereiabteilung von Whole Foods gearbeitet"
+  }
+}

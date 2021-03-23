@@ -1,0 +1,95 @@
+#myWordrobe {
+  display: grid;
+  grid-template-columns: 15% 85%;
+}
+
+.slidebar {
+  background-color: #f4eeeb;
+  min-height: 100vh;
+}
+
+/* .myWordrobeContent {
+  padding: 1rem 0;
+} */
+
+.myWordrobeContent .heading {
+  text-align: center;
+}
+
+.cropper {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  padding: 2rem;
+}
+
+.cropper .cropperImg {
+  width: 100%;
+  height: 100%;
+}
+
+.cropper .cropImg {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 40rem;
+  overflow-y: scroll;
+}
+
+.cropper .cropImg::-webkit-scrollbar {
+  display: none;
+}
+
+.cropImg .imgDiv {
+  width: 24rem;
+  height: 13rem;
+  border: 0.2rem solid #66180d;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.imgDiv img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.imgDiv .closeBtn {
+  position: absolute;
+  top: 0.5rem;
+  right: 1rem;
+  outline: none;
+  border: none;
+  background-color: #fff;
+  border-radius: 50%;
+  font-size: 2rem;
+  overflow: hidden;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+
+.myWordrobeContent .btnDiv {
+  padding: 0 2rem;
+}
+
+.myWordrobeContent .btnDiv .crop {
+  background-color: #66180d;
+  font-size: 1.4rem;
+  color: #fff;
+  font-weight: 500;
+  border-radius: .5rem;
+  border: none;
+  padding: 1rem 4rem;
+  cursor: pointer;
+}
+
+.myWordrobeContent .btnDiv .cancel {
+  background-color: #f4eeeb;
+  font-size: 1.4rem;
+  color: #66180d;
+  font-weight: 500;
+  border-radius: .5rem;
+  border: none;
+  padding: 1rem 4rem;
+  margin-left: 1rem;
+}

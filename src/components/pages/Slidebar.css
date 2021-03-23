@@ -1,0 +1,65 @@
+#slidebar .logo {
+  display: flex;
+  /* padding: 1rem; */
+  padding: 10px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#slidebar .logoImg {
+  /* width: 4.5rem; */
+  width: 45px;
+}
+
+#slidebar .companyName {
+  /* font-size: 1.8rem; */
+  font-size: 18px;
+  color: #66180d;
+  font-weight: 400;
+}
+
+#slidebar ul {
+  /* margin: 1.5rem; */
+  margin: 15px;
+}
+
+#slidebar ul .item {
+  list-style-type: none;
+  /* background: aqua; */
+  margin-bottom: 1px;
+  padding: 15px;
+  /* margin-bottom: 0.1rem;
+  padding: 1.5rem; */
+  cursor: pointer;
+  transition: all 0.1s linear;
+}
+
+#slidebar ul .item:hover {
+  background-color: #66180d;
+  color: #fff;
+}
+
+#slidebar ul .item:hover a {
+  color: #fff;
+}
+
+#slidebar ul .item:hover i {
+  color: #fff;
+}
+
+#slidebar ul i {
+  color: #4a4a4a;
+  font-size: 14px;
+  /* font-size: 1.4rem; */
+}
+
+#slidebar ul a {
+  text-decoration: none;
+  color: #4a4a4a;
+  font-size: 14px;
+  margin-left: 10px;
+  /* font-size: 1.4rem;
+  margin-left: 1rem; */
+  transition: all 0.1s linear;
+}
+
